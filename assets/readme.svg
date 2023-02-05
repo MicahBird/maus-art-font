@@ -1,8 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="74.147mm" height="8.3184mm" version="1.1" viewBox="0 0 74.147 8.3184" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-71.434 -68.774)" fill="none" stroke="#000000">
-  <text transform="scale(.26458)" font-size="32px" stop-color="#000000" stroke-width="3.7795" style="shape-inside:url(#rect285);white-space:pre" xml:space="preserve"/>
-  <text x="71.266365" y="76.381172" font-size="14.111px" stop-color="#000000" stroke-width="0" xml:space="preserve"><tspan x="71.266365" y="76.381172" fill="#000000" font-family="'Maus Dialogue'" font-size="14.111px" stroke-width="0">Maus Dialogue Font</tspan></text>
- </g>
+
+<svg
+   width="137.07692mm"
+   height="20.28875mm"
+   viewBox="0 0 137.07692 20.28875"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="46.395763"
+       y="212.64725"
+       width="453.64746"
+       height="197.18199"
+       id="rect285" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-39.968967,-60.761207)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none;stop-color:#000000"
+       id="rect9093"
+       width="137.07692"
+       height="20.288748"
+       x="39.968967"
+       y="60.761208" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text283"
+       style="font-size:32px;white-space:pre;shape-inside:url(#rect285);fill:none;stroke:#000000;stroke-width:3.77953;stop-color:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none;stop-color:#000000"
+       x="55.569149"
+       y="75.73217"
+       id="text291"><tspan
+         id="tspan289"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Maus Dialogue';-inkscape-font-specification:'Maus Dialogue';fill:#000000;stroke-width:0;stroke-dasharray:none"
+         x="55.569149"
+         y="75.73217">MAUS Dialogue Font </tspan></text>
+  </g>
 </svg>
